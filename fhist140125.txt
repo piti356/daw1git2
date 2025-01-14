@@ -1,0 +1,52 @@
+    1  cd C:\DAW Darío Jiménez\Entornos de desarrollo\Git
+    2  c\DAW Darío Jiménez\Entornos de desarrollo\Git
+    3  cd c\DAW Darío Jiménez\Entornos de desarrollo\Git
+    4  cd /C/DAW\ Darío\ Jiménez/
+    5  ls
+    6  Entonos de desarrollo
+    7  cd Entornos\ de\ desarrollo/
+    8  cd Git/
+    9  mkdir daw1tgit2
+   10  cd daw1tgit2
+   11  git init
+   12  ls -l
+   13  git status
+   14  git add primerospasos.txt
+   15  git status
+   16  git config
+   17  git config --list
+   18  git config user.name="piti356"
+   19  git config user.name"piti356"
+   20  git config --list
+   21  git config user.name "piti356"
+   22  git config --list
+   23  git config user.email "dariojimenezdaw@gmail.com"
+   24  git remote add origin "https://github.com/piti356/daw1git2.git"
+   25  ls
+   26  cd
+   27  cd c
+   28  cd C
+   29  cd c:
+   30  ls
+   31  cd DAW\ Darío\ Jiménez/
+   32  ls
+   33  cd Entornos\ de\ desarrollo/
+   34  ls
+   35  cd Git/
+   36  cd
+   37  ls
+   38  cd daw1tgit
+   39  cd ..
+   40  ls
+   41  cd C
+   42  cd C:
+   43  cd DAW\ Darío\ Jiménez/
+   44  ls
+   45  cd Entornos\ de\ desarrollo/
+   46  ls
+   47  cd Git/
+   48  ls
+   49  cd daw1tgit2/
+   50  ls
+   51  clear
+   52  history > fhist140125.txt
